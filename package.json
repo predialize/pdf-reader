@@ -1,0 +1,25 @@
+{
+  "name": "@predialize/pdf-reader",
+  "version": "0.0.1",
+  "private": false,
+  "description": "",
+  "license": "UNLICENSED",
+  "contributors": [
+    "Rodrigo Brabo <rodrigo.brabo@predialize.com.br>"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/predialize/pdf-reader.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/predialize/pdf-reader/issues"
+  },
+  "homepage": "https://github.com/predialize/pdf-reader#readme"
+}
