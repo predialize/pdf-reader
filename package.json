@@ -1,6 +1,6 @@
 {
   "name": "@predialize/pdf-reader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "description": "",
   "license": "UNLICENSED",
@@ -10,7 +10,9 @@
   "engines": {
     "node": ">=8"
   },
-  "dependencies": {},
+  "dependencies": {
+    "node-ensure": "0.0.0"
+  },
   "devDependencies": {},
   "main": "index.js",
   "repository": {
